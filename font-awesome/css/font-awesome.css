@@ -221,6 +221,12 @@
 .fa-power-off:before {
   content: "\f011";
 }
+.fa-shower:before {
+  content: "\f2cc";
+}
+.fa-temperature-high:before {
+  content: "\f769";
+}
 .fa-signal:before {
   content: "\f012";
 }
